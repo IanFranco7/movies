@@ -66,5 +66,9 @@
         padding-top: .4rem;
     }
 
+    .info p{
+        text-align: center;
+    }
+
    
 } 
